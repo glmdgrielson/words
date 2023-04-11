@@ -18,6 +18,20 @@ preferable than the other.
 
 ---
 
+The governor was overworked. This was not news. Not here, not in any sector.
+What made this sector different was that this governor decided to build an
+assistant to fix it. They didn't want to hire a human because well, the matter
+at hand is taxes. The governor didn't want to have to deal with a human trying
+to skew things. Funds were needed to get things done and the governor didn't
+trust a human to do a job like this without needing to arrange anything. There
+were enough cheap resources to build a small robot that could handle this
+automatically. It's not a job that requires human intelligence; computer
+intelligence would get the job done.
+
+This was what the governor thought. The governor was terribly wrong.
+
+---
+
 Notes:
 - The main plot is about taxes. A small little robot has been assigned to do
 the taxes and makes a mistake: it has asked the noble to pay up. This goes
