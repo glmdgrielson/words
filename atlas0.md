@@ -1,3 +1,5 @@
+The Certainties of Life
+-----------------------
 The _Atlas_ is a place of great hope. It has sailed across the stars for
 generations. The people aboard it now were ages from being born when it set off
 and will be long dead when it lands. It is a generation ship, designed to hold
