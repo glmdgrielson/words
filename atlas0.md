@@ -32,6 +32,17 @@ intelligence would get the job done.
 
 This was what the governor thought. The governor was terribly wrong.
 
+"Alright, let's see if you're any good. Here's some documents. These are old
+and I keep them around for testing, so don't do anything about it, just tell me
+if you see anything off, okay?"
+
+The bot whirred and started crunching the numbers. "This person should owe 7707
+units of currency!" The governor smiled. They never _did_ find a less stupid
+name for their money. _Units_, who thought that one up? All things considered,
+probably nobody, and this is what happens when you leave people to come up with
+the name on short notice. You don't get something flowery, you don't get
+something normal-sounding, you get something _dumb_. Like _units_.
+
 ---
 
 Notes:
