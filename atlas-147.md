@@ -2,7 +2,7 @@ Sector 147 was an interesting one. The original generation had a number of free
 thinkers on it who had interesting ideas about expressing the human body.
 Generations later, this resulted in a sector with notably loose relations
 around intimacy, where time in bed was considered just as valuable a currency
-as any other. The textures that oft get cut to frame one's body very often went
+as any other. The textiles that oft get cut to frame one's body very often went
 to sector 148 where the women, and with an increasing frequency the men, wore
 veils in the name of meeting a high price of modesty. This is generally
 credited as the reason for sector 148 developing a thriving textile industry
