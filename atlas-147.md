@@ -39,7 +39,9 @@ interacting with the people that actually lived the life expected of this
 sector, which Virginia thought would be a refreshing change of pace.
 
 She was not expecting to already be on a date. With a woman. Dressed like
-_that_.
+_that_. Still, Virginia was taught to be polite. "Hello, there, miss..."
+
+"It's An, serial code WXYZ."
 
 ---
 
