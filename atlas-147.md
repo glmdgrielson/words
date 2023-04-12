@@ -4,7 +4,9 @@ Generations later, this resulted in a sector with notably loose relations
 around intimacy, where time in bed was considered just as valuable a currency
 as any other. The textures that oft get cut to frame one's body very often went
 to sector 148 where the women, and with an increasing frequency the men, wore
-veils in the name of meeting a high price of modesty. Funny how that works out.
+veils in the name of meeting a high price of modesty. This is generally
+credited as the reason for sector 148 developing a thriving textile industry
+and some very stunning and beautiful designs. Funny how that works out.
 
 The governor of 147 was of course aware of this reputation and would often
 receive calls from the governors of other sectors to swap duties. This was very
