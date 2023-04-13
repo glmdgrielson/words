@@ -47,20 +47,20 @@ something normal-sounding, you get something _dumb_. Like _units_.
 
 Notes:
 - The main plot is about taxes. A small little robot has been assigned to do
-the taxes and makes a mistake: it has asked the noble to pay up. This goes
-very bad.
+  the taxes and makes a mistake: it has asked the noble to pay up. This goes
+  very bad.
 - Characters:
     - The governor: essentially the straight man in this situation, who has
-    been tasked with making sure nobody sets anybody else on fire. They exist
-    to keep the order and it is very clearly weighing on them.
+      been tasked with making sure nobody sets anybody else on fire. They exist
+      to keep the order and it is very clearly weighing on them.
     - The tax bot: created to give the governor less to do. It's just a number
-    cruncher, can't be that bad, right? Right up until it sees "oh, this Noble
-    fellow isn't paying their taxes" and decides "this will be an easy fix".
-    Which it _technically_ is, but with consequences that this tax bot can't
-    really fathom. It's computer smart, but not very human smart; it has a low
-    Wisdom score, so to speak. So it doesn't understand the _social_
-    consequences of what it's doing. Those consequences blowing up are the main
-    driver of the plot.
+      cruncher, can't be that bad, right? Right up until it sees "oh, this
+      Noble fellow isn't paying their taxes" and decides "this will be an easy
+      fix".  Which it _technically_ is, but with consequences that this tax bot
+      can't really fathom. It's computer smart, but not very human smart; it
+      has a low Wisdom score, so to speak. So it doesn't understand the
+      _social_ consequences of what it's doing. Those consequences blowing up
+      are the main driver of the plot.
     - The noble: an aristocrat that just had his wealth challenged. He is very
-    fussy about it and _demands_ that it get fixed. It probably won't because
-    of the questionable ethics of aristocracy. Who knows?
+      fussy about it and _demands_ that it get fixed. It probably won't because
+      of the questionable ethics of aristocracy. Who knows?
