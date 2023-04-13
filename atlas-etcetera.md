@@ -26,6 +26,16 @@
   region for the eyes, and covering the torso at least down to the serial. Thus
   the tradition for adding one's serial to the scarf, usually over where the
   mouth would be or directly below it.
+- Sector 000 is a common euphemism for the parts of the ship not otherwise used
+  by any other sector. Mostly this is hallways and the machinery that actually
+  powers the ship, but it also holds all of the maintenance crew. Most people
+  with first hand experience with maintenance regard them as quite _odd_. After
+  all, they're engineers who spend more time around computers than people. The
+  maintenance crew handles the basic functions of the ship, repair of the holy
+  starship, trade between various sectors, and record keeping. These records
+  are ..._distinctive_, and often not in the good way. In the "we lost an
+  entire country because everybody assumed its location was so obvious as to
+  never bother writing it _down_" way.
 
 # _Atlas_ setting questions
 
@@ -47,3 +57,8 @@
       uniform and headscarf/veil seen as a canvas to express oneself. Many
       young 148 children's first project is sewing or otherwise marking their
       serial onto their veil.
+- What are the maintenance staff like and how does life go for them?
+    * This could probably be a whole story in and of itself. I'm a little
+      excited about it but I'm probably going to need to make a _lot_ more
+      decisions about the mechanics of the holy starship before I really get
+      into it.
