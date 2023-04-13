@@ -60,7 +60,11 @@ reason most of us wear tops. May I know your serial?"
 Virgina looked down. It was a bit hard to see, but she could see "0123" written
 on her uniform. Uniform, what a startlingly ironic word right now. Virgina felt
 overdressed and it was making her uncomfortable. Was it her dress? She didn't
-know.
+know. "It's 0123, I'm Virginia of the nobility of 147."
+
+An laughed. Virginia winced. She knew that her nobility was something of a
+farce and reactions like this weren't helping. She was not looking forward to
+having to justify her lifestyle but she was desperately struggling to adapt.
 
 
 ---
