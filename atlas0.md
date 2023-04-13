@@ -43,6 +43,18 @@ probably nobody, and this is what happens when you leave people to come up with
 the name on short notice. You don't get something flowery, you don't get
 something normal-sounding, you get something _dumb_. Like _units_.
 
+The governor smiled. "Okay, now let's run through some actual data. Serial
+number is 9957. Do they owe anything?"
+
+The bot whirred once more. "It would appear we owe them 58 units." The governor
+blushed. That will have to be fixed soon. "Would you like me to deposit them
+now?"
+
+The governor groaned. "Go ahead. I suppose it wouldn't hurt to have you run
+over the rest of the taxes as well. Let's see if you're worth it, little
+robot." And with that, the governor went off to work on all of their _other_
+innumerable duties.
+
 ---
 
 Notes:
