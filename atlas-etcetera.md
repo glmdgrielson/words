@@ -36,6 +36,15 @@
   are ..._distinctive_, and often not in the good way. In the "we lost an
   entire country because everybody assumed its location was so obvious as to
   never bother writing it _down_" way.
+- A lot of Earth culture has not survived. The ship is loaded with plenty of
+  documents, but they are scattered and seen by very few if any of its people.
+  As such, the ship's various sectors have evolved its own cultures, descended
+  from its earliest generations passed down to the later ones. The one document
+  that every sector has access to is a list of guidelines the Atlas's creators
+  had created for ensuring there would still be a human race when the ship
+  landed. The most important of these rules is "take care to have offspring, so
+  we may have a future". The various sectors have interpreted this instruction
+  in various and interesting ways.
 
 # _Atlas_ setting questions
 
