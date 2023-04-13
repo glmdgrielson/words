@@ -56,7 +56,7 @@ Notes:
     - The tax bot: created to give the governor less to do. It's just a number
       cruncher, can't be that bad, right? Right up until it sees "oh, this
       Noble fellow isn't paying their taxes" and decides "this will be an easy
-      fix".  Which it _technically_ is, but with consequences that this tax bot
+      fix". Which it _technically_ is, but with consequences that this tax bot
       can't really fathom. It's computer smart, but not very human smart; it
       has a low Wisdom score, so to speak. So it doesn't understand the
       _social_ consequences of what it's doing. Those consequences blowing up
