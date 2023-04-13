@@ -53,6 +53,16 @@ Virginia quietly nods. The discomfort is ...very present on her face. Her mind
 is trying to avoid a death by culture shock and by the looks of it, she isn't
 winning.
 
+"Kid, I just want to know your serial for ID purposes. And in case we find some
+stray clothes lying about and we need to know who it belongs to. It's half the
+reason most of us wear tops. May I know your serial?"
+
+Virgina looked down. It was a bit hard to see, but she could see "0123" written
+on her uniform. Uniform, what a startlingly ironic word right now. Virgina felt
+overdressed and it was making her uncomfortable. Was it her dress? She didn't
+know.
+
+
 ---
 
 Notes:
