@@ -66,6 +66,18 @@ An laughed. Virginia winced. She knew that her nobility was something of a
 farce and reactions like this weren't helping. She was not looking forward to
 having to justify her lifestyle but she was desperately struggling to adapt.
 
+Virginia sighed. "So, may you introduce me to how you people get to know one
+another?"
+
+An smiles for a moment, then drops it for a serious look into her eyes. "Okay,
+Virginia, let me put it to you like this. I'm gonna be honest with you. You
+don't sound like you're okay, and we have this thing about not doing things to
+people that aren't doing okay. I'm gonna go recommend you find a med first.
+Okay?"
+
+Virginia nodded. "Okay. Thank you, miss."
+
+"Oh, and drop the formalities." Virgina squirmed a little.
 
 ---
 
