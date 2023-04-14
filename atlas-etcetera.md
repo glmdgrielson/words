@@ -58,6 +58,13 @@
       known as an [arcology](https://en.wikipedia.org/wiki/Arcology). The exact
       mechanics of this are something that I don't know and quite frankly don't
       understand.
+- How are the sectors laid out?
+    * I'll be perfectly honest, I have _no_ idea. I mean this both in terms of
+      how the individual sectors are organized, and in what the interiors
+      actually contain. This is something that I'll probably develop as I write
+      more, and for now I'll have to settle for a similar "quiet you" answer
+      that Pratchett used when beginning Discworld: "you can't map a sense of
+      wonder."
 
 # _Atlas_ story prompts
 
