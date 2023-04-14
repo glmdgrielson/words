@@ -83,3 +83,9 @@ Virginia nodded. "Okay. Thank you, miss."
 
 Notes:
 - This is a stupid idea that I wrote down to get out of my head, okay?
+- I imagine that sex positivity is one of the biggest, if not the biggest
+  virtue among the people of Sector 147. What does this mean? Well, a few
+  things: a focus on body positivity. Clothes designed to be easily removable
+  as well as showing off the figure of the wearer. A very robust medical field,
+  with a focus on reproductive health. Very free thoughts about gender and
+  orientation, although, uh, being ace is considered ...kind of weird.
