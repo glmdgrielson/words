@@ -55,6 +55,13 @@ over the rest of the taxes as well. Let's see if you're worth it, little
 robot." And with that, the governor went off to work on all of their _other_
 innumerable duties.
 
+It wasn't until the next day that the governor noticed their mistake. It was a
+_big_ mistake. There was a knock. "Hello there, _governor._ I must have a word
+with you."
+
+The governor groaned. It was the noble. The noble was not happy. This was not
+much of a surprise, but it was unwelcome nonetheless.
+
 ---
 
 Notes:
