@@ -100,6 +100,21 @@ children. They seemed less than happy, as if like her a life was being forced
 upon them. An? An felt different. She felt _satisfied_. This was an emotion
 Virginia was not familiar with and it spoke to her.
 
+When Virginia arose from her next sleep, she went off to find An again. She
+wanted to know what life was like on the other side. What was considered
+normal. And so she left her quarters and went off to find that stranger.
+
+"You again?" An seemed surprised. "Did you go meet one of the meds?"
+
+"I did not, I'm afraid."
+
+An shook her head. "Am I gonna have to take you?" she teased.
+
+"I... I wanted to get to know you better." An blushed. "You seemed ...satisfied
+when I last saw you and I wanted to know what that's like."
+
+"Satisfied? First time I've heard that word to describe me..."
+
 ---
 
 Notes:
