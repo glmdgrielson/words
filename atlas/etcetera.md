@@ -65,6 +65,12 @@
       more, and for now I'll have to settle for a similar "quiet you" answer
       that Pratchett used when beginning Discworld: "you can't map a sense of
       wonder."
+- How does time work?
+    * One of the things that make the _Atlas_ interesting to me as a setting
+    is the way that it does things mostly removed from outside influence. This
+    does mean that I'm not sure how to handle things like "days", "years", or
+    anything much to do with the passage of time, given that, y'know, it's a
+    space ship that's not orbiting a sun.
 
 # _Atlas_ story prompts
 
