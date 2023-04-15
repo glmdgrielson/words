@@ -79,6 +79,17 @@ Virginia nodded. "Okay. Thank you, miss."
 
 "Oh, and drop the formalities." Virgina squirmed a little.
 
+Virginia returned to her living quarters. Her father stopped her. "So, what did
+you think, dear?"
+
+Virginia sighed. "I see I'm going to need to take time to adjust."
+
+The noble laughed. "I don't see why you need to adjust to the standards of an
+_incorrect_ people."
+
+Virginia winced, but she wasn't ready to object yet. But she had the feeling
+her father was wrong.
+
 ---
 
 Notes:
