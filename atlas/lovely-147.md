@@ -90,6 +90,15 @@ _incorrect_ people."
 Virginia winced, but she wasn't ready to object yet. But she had the feeling
 her father was wrong.
 
+"Now, there are a few families that are friends of ours that have also wisely
+rejected their filthy ways. You've met them a few times before. I can set you
+up with one of them or you can leave me for some whelp."
+
+Virginia was going to leave, she felt sure of it. She remembered those other
+children. They seemed less than happy, as if like her a life was being forced
+upon them. An? An felt different. She felt _satisfied_. This was an emotion
+Virginia was not familiar with and it spoke to her.
+
 ---
 
 Notes:
