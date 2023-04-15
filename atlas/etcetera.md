@@ -84,3 +84,11 @@
       excited about it but I'm probably going to need to make a _lot_ more
       decisions about the mechanics of the holy starship before I really get
       into it.
+- Do the people of the Atlas assign any meaning to the number of their sector
+  or their serial codes?
+    * From a writing perspective, I'm trying to assign the serial and sector
+      numbers more or less randomly, which is why Virginia's story takes place
+      in the sector numbered 147 and not something a bit more on the nose. But
+      perhaps, say if you were in Sector 001, you might consider yourself
+      something special, or that you have a duty to uphold, even though in truth
+      your position was random chance.
