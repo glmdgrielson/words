@@ -44,10 +44,11 @@ She was not expecting to already be on a date. With a woman. Dressed like
 _that_. Still, Virginia was taught to be polite. "Hello, there, miss..."
 
 "It's An, serial code 5939. And judging from the way you're dressed, you're
-either medical and know better or you're a noble and _think_ you do. What's
-your serial?" An is staring at Virginia's chest, trying to get a look, mainly
-out of instinct. After she sees the girl instinctively tuck herself away, she
-concludes "Noble's kid, aren't you?"
+either medical and know better, you're a noble and _think_ you do, or you want
+to be a noble and _pretend_ you do. What's your serial?" An is staring at
+Virginia's chest, trying to get a look, mainly out of instinct. After she sees
+the girl instinctively tuck herself away, she concludes "Noble's kid, aren't
+you?"
 
 Virginia quietly nods. The discomfort is ...very present on her face. Her mind
 is trying to avoid a death by culture shock and by the looks of it, she isn't
