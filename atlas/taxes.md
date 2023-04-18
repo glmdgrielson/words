@@ -59,8 +59,18 @@ It wasn't until the next day that the governor noticed their mistake. It was a
 _big_ mistake. There was a knock. "Hello there, _governor._ I must have a word
 with you."
 
-The governor groaned. It was the noble. The noble was not happy. This was not
-much of a surprise, but it was unwelcome nonetheless.
+The governor groaned. "The noble of sector 241 would like to have a _word_ with
+you." This was not much of a surprise, but it was unwelcome nonetheless. "It
+has come to my attention that a great deal of wealth has been taken from me,
+and I would like to know _why_."
+
+The answer introduced itself. "You owe several thousand units in taxes. I have
+corrected your error."
+
+The governor and noble replied in unison "Thank you."
+
+The robot in full sincerity responded "You're welcome! The sector will thrive
+if we all contribute!"
 
 ---
 
