@@ -46,6 +46,23 @@ TBD
 
 ## Thoughts
 
+So, let's talk site design. Harbourmaster is kind of weird in that there is a
+lack of space for author comments, which is a tradition for most webcomics,
+only adding additional text to translate the French and IPA that appear in
+Richard's introductory chapter. It also has a noticable _bug_ wherein the
+HTML improperly recognizes which is the last page, so I found I had caught up,
+not by the lack of a next arrow, not by the lack of a _clickable_ next arrow,
+not by a visit to the front page, but by a 500 error. _Oops._
+
+What about the RSS feed? It's, uh, _not good_. About the nicest thing I could
+say about it is that it has a decent chunk of backlog: ten pages. What's wrong
+with it? Well, the feed entries are, uh, _not there_. No trace of actual comic
+pages, no notes that the comic has updated, just the bare minimum link. There's
+also no date, which is only alleviated from the fact that the comic pages
+themselves add a date in the signature. This might be one of the most useless
+feeds in my feed reader. And no, I don't care if nobody else notices this, it
+bothers _me_.
+
 So, a lot of the fantasy here is political in nature, both in the sense that it
 deals very heavy with intergalactic politics in its themes, but also in that
 the politics being _featured_ are a fantasy as well, in the same way that
