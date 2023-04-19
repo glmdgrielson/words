@@ -56,3 +56,10 @@ as _reasonable_.
 
 Which is why I can't stand Veras and anything to do with it, because it throws
 all that niceness out the window.
+
+As for the characters, I relate to Tal. Not in the pleasant way but in the "I'm
+in this picture and I don't like it" way far too often.
+
+> Cue picture of Shadow dressing themself like Tal, while Tal looks on bemused.
+
+Gilou is a nice fellow.
