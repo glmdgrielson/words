@@ -39,3 +39,20 @@ picked instead of, y'know, his own _kid_, is a riddle for the ages, but this is
 the setup for Tal and the aforementioned kid, Gilou, to get to know each other.
 And no, this isn't a romance, I'm pretty sure Tal himself would be the first to
 complain if his story wound up being a romance. Dude's ace as heck.
+
+## Recap
+
+TBD
+
+## Thoughts
+
+So, a lot of the fantasy here is political in nature, both in the sense that it
+deals very heavy with intergalactic politics in its themes, but also in that
+the politics being _featured_ are a fantasy as well, in the same way that
+Ankh-Morpork is a fantasy. It cuts out a lot of the ugliness that makes modern
+day politics a chore to follow: the scope is small, the power structures are
+tiny enough that corruption isn't much of a _thing_, and it all just comes off
+as _reasonable_.
+
+Which is why I can't stand Veras and anything to do with it, because it throws
+all that niceness out the window.
