@@ -32,3 +32,10 @@ but in a ...good way. It's a setting where cooler heads prevail and the scope
 is small enough that a lot of the ugliness is gone from the simple virtue that
 _[singing] everybody knows your name, and they're always glad you came._ ...I
 should watch _Cheers_ one of these days.
+
+Anyway, so the basic setup is that a great leader known as Partasah suddenly
+carks it and in his place is Tal Monteblanc. Why this former aristocrat got
+picked instead of, y'know, his own _kid_, is a riddle for the ages, but this is
+the setup for Tal and the aforementioned kid, Gilou, to get to know each other.
+And no, this isn't a romance, I'm pretty sure Tal himself would be the first to
+complain if his story wound up being a romance. Dude's ace as heck.
