@@ -30,3 +30,7 @@ passed.
 
 @#$%. That wasn't supposed to happen. I suppose it's a reasonable assumption to
 make.
+
+"Lan's not here right now." I paused for a few seconds, trying to explain myself.
+
+"I can't believe he left his PET at home again."
