@@ -33,15 +33,10 @@ make.
 
 "Lan's not here right now." I paused for a few seconds, trying to explain myself.
 
-"I can't believe he left his PET at home again."
+"WHERE IS HE?"
 
-That made me chuckle a little. Maybe this was genuine. Not really a state that
-would have come up in the games. Now how was I going to explain myself to
-MegaMan?
+My brilliant plan has _failed_ me. The chat window is filling with messages
+from the poor program trying to figure out what's going on. I was at a loss
+for how to explain this to him. @#$%.
 
-"I'm a researcher. I'm going to talk to you while Lan's off at school."
-
-"He's at school without me? How's he going to do his classwork?"
-
-My brilliant scheme has _failed_ me. The chat window was filling up with
-MegaMan's concern. I was struggling to come up with excuses.
+"Lan's fine, Lan's fine, I swear!"
