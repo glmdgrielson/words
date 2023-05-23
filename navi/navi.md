@@ -72,3 +72,8 @@ How helpful.
 Half an hour passed before I had an idea. I typed in the window. "Lan's coming.
 We got an experimental technology that will bring him over to your plane. We're
 still working on it though."
+
+And with that, I could notice a shift in MegaMan's mood. He was bouncing off the
+walls, talking about all of the things he wanted to do with his brother. It was
+kind of cute, honestly, and it was good to see him being happy. Of course, that
+means that I'm going to have to add Lan to the mix too and _soon_.
