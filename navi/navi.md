@@ -39,4 +39,8 @@ My brilliant plan has _failed_ me. The chat window is filling with messages
 from the poor program trying to figure out what's going on. I was at a loss
 for how to explain this to him. @#$%.
 
-"Lan's fine, Lan's fine, I swear!"
+"Lan's fine, Lan's fine, I swear! He's"
+
+My finger slips and hits enter mid-sentence. There's no visuals on this thing,
+but I can _feel_ the whiplash of MegaMan's neck turning toward me, desperately
+looking for an answer.
