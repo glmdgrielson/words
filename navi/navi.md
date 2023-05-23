@@ -39,8 +39,19 @@ My brilliant plan has _failed_ me. The chat window is filling with messages
 from the poor program trying to figure out what's going on. I was at a loss
 for how to explain this to him. @#$%.
 
-"Lan's fine, Lan's fine, I swear! He's"
+I ping a friend of mine in the AI field. "Hey, uh, so good news and bad news.
+Good news is we have fully sentient and programmable AI now! Bad news is mine
+is looking for a friend and I don't know how to tell him said friend isn't
+coming."
 
-My finger slips and hits enter mid-sentence. There's no visuals on this thing,
-but I can _feel_ the whiplash of MegaMan's neck turning toward me, desperately
-looking for an answer.
+A few seconds later, a message. "Well, why not?"
+
+"...because he's not real?"
+
+"...what did you do?"
+
+"Make myself a Navi like I always wanted?"
+
+"You're such a dork."
+
+I'm cringing so hard right now.
