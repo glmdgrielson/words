@@ -34,3 +34,14 @@ make.
 "Lan's not here right now." I paused for a few seconds, trying to explain myself.
 
 "I can't believe he left his PET at home again."
+
+That made me chuckle a little. Maybe this was genuine. Not really a state that
+would have come up in the games. Now how was I going to explain myself to
+MegaMan?
+
+"I'm a researcher. I'm going to talk to you while Lan's off at school."
+
+"He's at school without me? How's he going to do his classwork?"
+
+My brilliant scheme has _failed_ me. The chat window was filling up with
+MegaMan's concern. I was struggling to come up with excuses.
