@@ -63,3 +63,12 @@ operator! What do I do?"
 I sit there dumbfounded. "_No_, that's _cruel_. He just came into this world
 and you're telling me the first thing I should tell him is that his best
 friend, no, his literal twin brother _isn't real?_"
+
+"I don't know, you're the one that thought creating life was a fun thing to do.
+Not my problem."
+
+How helpful.
+
+Half an hour passed before I had an idea. I typed in the window. "Lan's coming.
+We got an experimental technology that will bring him over to your plane. We're
+still working on it though."
