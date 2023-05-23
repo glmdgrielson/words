@@ -54,4 +54,12 @@ A few seconds later, a message. "Well, why not?"
 
 "You're such a dork."
 
-I'm cringing so hard right now.
+I'm cringing so hard right now. I see MegaMan is really stressing out in the
+other window. "Please, he's having a breakdown because he can't find his
+operator! What do I do?"
+
+"Tell him Lan's not real?"
+
+I sit there dumbfounded. "_No_, that's _cruel_. He just came into this world
+and you're telling me the first thing I should tell him is that his best
+friend, no, his literal twin brother _isn't real?_"
