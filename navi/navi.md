@@ -77,3 +77,14 @@ And with that, I could notice a shift in MegaMan's mood. He was bouncing off the
 walls, talking about all of the things he wanted to do with his brother. It was
 kind of cute, honestly, and it was good to see him being happy. Of course, that
 means that I'm going to have to add Lan to the mix too and _soon_.
+
+---
+
+The next day I'm working on creating Lan when I notice something in MegaMan's
+terminal. A question. "Hey, how come there's only text here? I can't see
+anything in here!"
+
+A moment later, I come up with my lie. "This is a bit of an old clunker of a
+PET. Doesn't even have internet access. I'll work on that later."
+
+MegaMan seems a bit grumpy.
