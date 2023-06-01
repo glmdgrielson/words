@@ -87,4 +87,6 @@ anything in here!"
 A moment later, I come up with my lie. "This is a bit of an old clunker of a
 PET. Doesn't even have internet access. I'll work on that later."
 
-MegaMan seems a bit grumpy.
+MegaMan seems a bit grumpy. "What kind of weirdo are you, using technology
+decades out of date?" I try my best not to be offended by the fact that state
+of the art technology is calling me outmoded. It's hard, but I'm doing my best.
