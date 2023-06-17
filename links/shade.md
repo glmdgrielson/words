@@ -32,7 +32,8 @@ Legend
 Connections to Canon Links
 -------------------------
 
-* Lore _fascinates_ him.
+* Lore _fascinates_ him. Unfortunately, the feeling is not mutual, as Lore
+  tends to disapprove of Shade's habit of straight up ignoring puzzles.
 * Gen gives him a lot of weird looks.
 * Shadow is scary.
 * He is forever sad that he'll never get to ride around in Dusk's shadow. He
