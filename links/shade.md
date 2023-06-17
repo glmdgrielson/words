@@ -4,11 +4,11 @@ Shade, the Twili Link
 There's nothing that _says_ the fellow pulling out the magical artifact of holy
 power _needs_ to be a blond, green-clad Hylian undergoing puberty.
 
-This kid might wish there _were_ though. Because that stupid sword _hurts_.
+This kid might wish there _were_ though. Because that stupid lamp _hurts_.
 
 Shade is a Twili with an endlessly curious spirit. He's only _in_ this
 situation because he wandered off, found a weird forest, and decided to have a
-go at the free sword that he found. He is now regretting precisely _all_ of his
+go at the free thing that he found. He is now regretting precisely _all_ of his
 life decisions. Hero of legend he ain't.
 
 Personality
