@@ -20,9 +20,10 @@ month doing sidequests.
 Combat
 ------
 
-Mostly a magic user for two reasons. One, that's what he was trained to do, so
-it comes more easily to him than swordplay. The _other_ is that his only weapon
-at the moment is the Master Sword which does not get along with him. At all.
+Shade is very good at smashing things with his magic plot item. After all,
+crushing things that get in his way is a skill that he has used several times
+to his benefit. On the other hand, he's very clever with _how_ he goes about
+smashing things, looking for weak points or holes in foes' strategies.
 
 Legend
 ------
