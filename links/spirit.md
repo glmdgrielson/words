@@ -46,3 +46,6 @@ another one to come in.)
 
 Connections to Canon Links
 --------------------------
+* Steam notices the green energy of Farore's will as well as the faint details
+  of what Spirit looked like alive. This knowledge makes Spirit very
+  uncomfortable.
