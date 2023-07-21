@@ -37,3 +37,7 @@ Right?
 
 It's at this point that a lot of the reasoning behind cult that has overtaken
 Sector 001 becomes obvious and almost reasonable. Big "almost" there, though.
+
+One of the rituals of 001 had begun: a reading of the colonization plans. As
+important as they were, there was very often discussion. Most often minor
+"helpful" additions, that weren't going to last.
