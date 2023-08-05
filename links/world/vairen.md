@@ -24,3 +24,5 @@ Clothing
   "non-binary" from the way they describe the Vai'ren.
     * > This is a deliberate deviation from the Islamic tradition this is pulled
       from, admittedly. This is something I'm doing for _me_.
+- In terms of general aesthetic, I'm imagining clothing that is either loose and
+  flowing, or something along the lines of exercise wear.
