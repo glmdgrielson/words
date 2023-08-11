@@ -22,7 +22,7 @@ when the _Atlas_ had originally set off. This was frequently a source of
 derision amongst the sector and 147 was no stranger to this. After all, it is a
 natural response to a fellow telling you your way of life is inherently wrong
 for reasons that are no stronger than saying that things are just like that,
-when the counterexamples outweighed those that supposedly followed the rule.
+when the counterexamples outnumbered those that supposedly followed the rule.
 
 All of this was painfully obvious to the noble's _daughter_, who was given the
 very not subtle name of Virginia. Her father thought it symbolized a great
