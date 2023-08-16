@@ -28,3 +28,18 @@ Clothing
   and flowing, or something along the lines of exercise wear.
     - [Dignitii](https://www.dignitii.com) looks like a good place to find
       reference for this sort of look?
+- Traditional Vai'ren wear: black veil covering all of the face except for the
+  eyes and a black robe obscuring all of the figure except for the hands and
+  feet. Generally only worn for ceremonial purposes or by extremely
+  traditionalist members of the faith.
+- Casual wear: a shawl to cover the head. A veil to cover the face, given a
+  distinctive pattern to identify the wearer; distinctive veils may be given
+  out as part of uniform for a job. Loose fitting dress and leggings to allow
+  for fluid movement and not _quite_ as figure-obscuring as traditional wear.
+  Often worn with an undershirt or gloves to account for the sleeves rising.
+- Active wear: While the leggings are typically similar to casual wear, the
+  dress has a number of accommodations to physical activity. The sleeves have a
+  hole to insert the thumb so that it won't rise when the arm is lifted. A
+  second layer of fabric is attached below the bustline to stick under the
+  leggings. The skirt splits in two to allow for more leg movement while still
+  covering the body when still.
