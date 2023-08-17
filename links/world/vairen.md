@@ -43,3 +43,26 @@ Clothing
   second layer of fabric is attached below the bustline to stick under the
   leggings. The skirt splits in two to allow for more leg movement while still
   covering the body when still.
+
+Arts
+----
+- There is rather noticeably, no musical tradition amongst the Vai'ren. The
+  usual explanation given is that it respects the melodies provided by the
+  universe itself, though it's more accurate to say that music as an art form
+  was rejected as a Hyrulean artifact that the Vai'ren wanted no part in.
+- Instead, in its place, dance is given treatment as a high art form, the sort
+  of thing fancy theaters are made for and which is seen as the "classical"
+  form for the Vai'ren.
+- In the way of _popular_ art, however, vai flock towards staged combat
+  performances, in similar vein to real world pro wrestling, albeit with a
+  different martial art being showcased.
+    - Simple combat demonstrations were a frequent sight in the streets. This
+      appealed to the populace quite a bit.
+    - Eventually somebody got the idea that if the fights were staged, it'd be
+      a lot easier to have more of them, since there's less of a risk of
+      injury.
+    - This eventually results in a storied and celebrated tradition of larger
+      than life personalities squaring off in the ring.
+    - Vai'ren show-fighters have some of the most decorated and flashy costumes
+      their people can produce (while still respecting their rules for
+      modesty). Comparisons to superhero costumes wouldn't be unwarranted.
