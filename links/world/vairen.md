@@ -43,6 +43,10 @@ Clothing
   second layer of fabric is attached below the bustline to stick under the
   leggings. The skirt splits in two to allow for more leg movement while still
   covering the body when still.
+    - It's worth noting that vai preparing for combat will usually ditch their
+      veils in favor of face-covering masks, as to deny an easy grab for ...less
+      _honorable_ opponents. Show-fighters are noted for having luchador-style
+      masks that favor stylization.
 
 Arts
 ----
