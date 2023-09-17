@@ -8,6 +8,19 @@ The Vai'ren
   Hyrule and made to live in hiding. The Vai'ren are her descendants and it is
   their duty in life to honor her and pay back for those who had wronged her.
 
+Faith
+-----
+
+- The Debt is a central element of the faith and "paying the debt" is a common
+  way of saying that one follows the Vai'ren faith, but there's more to it than
+  simply that.
+- If you asked an observer what paying the debt meant to them, chances are the
+  answer would be about _strength_. Strength of character: the morals to make
+  the world better than the one that spurned the Ancestor. Strength of mind:
+  the foundation to be able to carry oneself, especially against those who
+  would shun then. Strength of body: the ability to defend against anything
+  that might threaten them.
+
 Clothing
 --------
 
