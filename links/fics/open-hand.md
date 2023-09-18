@@ -46,3 +46,16 @@ responsibility over the child. They went back to the spot they had originally
 found them and, much to their dismay, could not find them. This moment of shock
 was only amplified by a sudden tug on their pant leg. It seems the child
 decided to follow them. At least the child was not lost entirely.
+
+Gira attempted to scold the child, and then continued on their quest. They
+penned a new note, rather facetiously, about the "human". "This locale is
+almost entirely devoid of humans other than myself, though I have found one
+exception. Studying the specimen reveals that it shares the Hylian phenotype.
+More research is needed." The vai smiled behind their mask and put the notes
+away. The sunlight hadn't faded; they wagered it was still afternoon with a
+fair amount of time left in the day. Before venturing onwards, Gira tried to
+encourage the child to follow them, though this was proving to be difficult.
+The child seemed hesitant, maybe scared. They could understand why: a strange
+individual in a dangerous place is easy to identify as a threat. Gira swallowed
+before kneeling down and offering their palm. Their fingers were a bit hardened
+but the palm was covered by the soft texture of their survival dress.
