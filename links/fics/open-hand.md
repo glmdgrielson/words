@@ -12,11 +12,13 @@ kingdom.
 Gira is one such vai, wearing the welcoming gesture of an open hand upon their
 mask, who set out to document a world unknown to their kingdom. And so they
 found themself in a dense forest, a far cry from the sandy dunes that made up
-their home kingdom. It was a novel sensation for them and they couldn't shake
-off the feeling that it wasn't just unfit for humans, but unfit for vai. This
-was _Hylian_ territory, but that was why they had set off here. They were going
-to do research. They were going to open up more of the world to their kingdom
-for knowledge and just maybe, future vai.
+their home kingdom. It was a novel sensation for them. Water within arm's reach
+no matter where you went. Green and brown dominating the landscape, yet filled
+with so many colors. More plant life than they could ever recall back home. And
+yet they couldn't shake off the feeling that it wasn't just unfit for humans,
+but unfit for vai. This was _Hylian_ territory, but that was why they had set
+off here. They were going to do research. They were going to open up more of
+the world to their kingdom for knowledge and just maybe, future vai.
 
 Gira's notebook was nearly full at this point, filled with their notes about
 the flora and fauna living there. The notes were scattered and unorganized,
