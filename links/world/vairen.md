@@ -35,8 +35,8 @@ Clothing
   one only gets to see the physique of a Vai'ren in detail during extremely
   intimate moments. As such, many Hyrulean languages derive their terms for
   "non-binary" from the way they describe the Vai'ren.
-    * > This is a deliberate deviation from the Islamic tradition this is pulled
-      from, admittedly. This is something I'm doing for _me_.
+    * > This is a deliberate deviation from the Islamic tradition this is
+      pulled from, admittedly. This is something I'm doing for _me_.
 - In terms of general aesthetic, I'm imagining clothing that is either loose
   and flowing, or something along the lines of exercise wear.
     - [Dignitii](https://www.dignitii.com) looks like a good place to find
@@ -57,9 +57,9 @@ Clothing
   leggings. The skirt splits in two to allow for more leg movement while still
   covering the body when still.
     - It's worth noting that vai preparing for combat will usually ditch their
-      veils in favor of face-covering masks, as to deny an easy grab for ...less
-      _honorable_ opponents. Show-fighters are noted for having luchador-style
-      masks that favor stylization.
+      veils in favor of face-covering masks, as to deny an easy grab for
+      ...less _honorable_ opponents. Show-fighters are noted for having
+      luchador-style masks that favor stylization.
 
 Arts
 ----
@@ -70,7 +70,7 @@ Arts
 - Instead, in its place, dance is given treatment as a high art form, the sort
   of thing fancy theaters are made for and which is seen as the "classical"
   form for the Vai'ren.
-- In the way of _popular_ art, however, vai flock towards staged combat
+- In the way of _popular_ art, however, vai tend to flock towards staged combat
   performances, in similar vein to real world pro wrestling, albeit with a
   different martial art being showcased.
     - Simple combat demonstrations were a frequent sight in the streets. This
