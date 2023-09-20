@@ -60,4 +60,5 @@ encourage the child to follow them, though this was proving to be difficult.
 The child seemed hesitant, maybe scared. They could understand why: a strange
 individual in a dangerous place is easy to identify as a threat. Gira swallowed
 before kneeling down and offering their palm. Their fingers were a bit hardened
-but the palm was covered by the soft texture of their survival dress.
+but the palm was covered by the soft texture of the sleeve of their survival
+dress.
