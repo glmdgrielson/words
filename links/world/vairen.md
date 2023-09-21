@@ -14,12 +14,34 @@ Faith
 - The Debt is a central element of the faith and "paying the debt" is a common
   way of saying that one follows the Vai'ren faith, but there's more to it than
   simply that.
+- The word "vai" is generally used to refer to any practitioner of the faith,
+  as well as describing the demographic of communities heavily shaped by it,
+  in the same way that one may be described as a "Christian" or a "Muslim" in
+  the real world. In contrast, the word "voe" is used to describe those who do
+  _not_ practice the faith or otherwise describe themself as vai. And yes,
+  there are some more... conservative vai who use the label of "voe" for the
+  purpose of discrimination.
 - If you asked an observer what paying the debt meant to them, chances are the
   answer would be about _strength_. Strength of character: the morals to make
   the world better than the one that spurned the Ancestor. Strength of mind:
   the foundation to be able to carry oneself, especially against those who
   would shun then. Strength of body: the ability to defend against anything
   that might threaten them.
+- Many of the smaller Vai'ren prayers are attached to exercises, so that they
+  can be performed at a consistent tempo. As such, a Vai'ren workout is
+  physically _and_ spiritually enriching.
+    - I have been told that this is very close to the story behind yoga, which
+      is a very fun coincidence!
+- The sun is very often used as a religious symbol, used to euphemistically
+  represent the Vai'ren Ancestor, who is usually otherwise forbidden from being
+  physically depicted, as a measure of respect towards somebody who was
+  wronged.
+- For as much as the vai consider the Ancestor a spiritual figure, the rest of
+  Hyrule consider her a historical figure, with a known name and face. This has
+  been the source of conflict more than once. As well, more than one Zelda has
+  attempted to make peace with the Vai'ren by attempting to address the
+  specific misdeeds done towards her, though this has not succeeded, as the
+  Vai'ren of the faith generally consider it too little too late.
 
 Clothing
 --------
