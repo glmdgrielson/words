@@ -83,6 +83,24 @@ Clothing
       ...less _honorable_ opponents. Show-fighters are noted for having
       luchador-style masks that favor stylization.
 
+Lifestyle
+---------
+- One of the more important jobs in a Vai'ren community is the family arranger,
+  usually just known as the arranger. Their job is to arrange those looking to
+  bear children with potential mates, especially since directly asking a vai
+  whether they are capable of bearing children is considered unspeakably
+  forward outside of direct relatives. (Remember, to a practicing vai, their
+  gender _is_ vai and their biological sex is none of your business.) An
+  arranger is expected to be fairly knowledgable about the people in their
+  community and to be able to assist in the development of a family. This might
+  include sexual education, relationship counseling, and gynecology in a
+  community that has developed far enough.
+    - There are a pair of somewhat standardized euphemisms that arrangers and
+      their clients use when discussing building a family: "looking to mate"
+      implies male reproductive organs and "looking to bear" implies female
+      reproductive organs. This is about as far as most vai are willing or
+      interested in talking about their gender.
+
 Arts
 ----
 - There is rather noticeably, no musical tradition amongst the Vai'ren. The
