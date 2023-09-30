@@ -31,7 +31,8 @@ passed.
 @#$%. That wasn't supposed to happen. I suppose it's a reasonable assumption to
 make.
 
-"Lan's not here right now." I paused for a few seconds, trying to explain myself.
+"Lan's not here right now." I paused for a few seconds, trying to explain
+myself.
 
 "WHERE IS HE?"
 
@@ -73,10 +74,10 @@ Half an hour passed before I had an idea. I typed in the window. "Lan's coming.
 We got an experimental technology that will bring him over to your plane. We're
 still working on it though."
 
-And with that, I could notice a shift in MegaMan's mood. He was bouncing off the
-walls, talking about all of the things he wanted to do with his brother. It was
-kind of cute, honestly, and it was good to see him being happy. Of course, that
-means that I'm going to have to add Lan to the mix too and _soon_.
+And with that, I could notice a shift in MegaMan's mood. He was bouncing off
+the walls, talking about all of the things he wanted to do with his brother. It
+was kind of cute, honestly, and it was good to see him being happy. Of course,
+that means that I'm going to have to add Lan to the mix too and _soon_.
 
 ---
 
@@ -90,3 +91,18 @@ PET. Doesn't even have internet access. I'll work on that later."
 MegaMan seems a bit grumpy. "What kind of weirdo are you, using technology
 decades out of date?" I try my best not to be offended by the fact that state
 of the art technology is calling me outmoded. It's hard, but I'm doing my best.
+
+---
+
+A little while later, and I've coded up a quick graphical environment in Godot.
+It's not much, but there's room to move around in and a very crude model to
+work with. MegaMan seems to like it, but even he notices something's off. "Hey,
+what kind of model is this? The tech seems a bit low. I'd assume it's the
+network, but this network doesn't seem _nearly_ busy enough for that."
+
+I cough somewhat awkwardly before I sigh and type. "Okay, I have to tell you
+this. We don't _have_ PETs or NetNavigators or battle chips or anything that
+you would recognize. Our AI skills have only just now figured out how to make
+a functioning mind with human intelligence. I only whipped all this up because
+...well, I was a fan of yours growing up and I thought having you around would
+be fun. I... wasn't really thinking about the consequences. Sorry."
