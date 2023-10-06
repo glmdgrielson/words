@@ -69,15 +69,15 @@ Clothing
   traditionalist members of the faith.
 - Casual wear: a shawl to cover the head. A veil to cover the face, given a
   distinctive pattern to identify the wearer; distinctive veils may be given
-  out as part of uniform for a job. Loose fitting dress and leggings to allow
-  for fluid movement and not _quite_ as figure-obscuring as traditional wear.
-  Often worn with an undershirt or gloves to account for the sleeves rising.
-- Active wear: While the leggings are typically similar to casual wear, the
-  dress has a number of accommodations to physical activity. The sleeves have a
-  hole to insert the thumb so that it won't rise when the arm is lifted. A
-  second layer of fabric is attached below the bustline to stick under the
-  leggings. The skirt splits in two to allow for more leg movement while still
-  covering the body when still.
+  out as part of uniform for a job. Loose fitting dress and pants to allow for
+  fluid movement and not _quite_ as figure-obscuring as traditional wear. Often
+  worn with an undershirt or gloves to account for the sleeves rising.
+- Active wear: While the pants are typically similar to casual wear, the dress
+  has a number of accommodations to physical activity. The sleeves have a hole
+  to insert the thumb so that it won't rise when the arm is lifted. A second
+  layer of fabric is attached below the bustline to stick under the pants. The
+  skirt splits in two to allow for more leg movement while still covering the
+  body when still.
     - It's worth noting that vai preparing for combat will usually ditch their
       veils in favor of face-covering masks, as to deny an easy grab for
       ...less _honorable_ opponents. Show-fighters are noted for having
