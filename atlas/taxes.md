@@ -12,8 +12,8 @@ and the maintainers of life aboard the holy starship.
 
 When the holy starship set forth, the ship was split into what were dubbed 
 sectors, each representing a pocket of real estate within the holy starship.
-Each sector was designated a governor and a noble. The noble was given a great
-wealth and told to be merry and helpful. The governor was given a hundred odd
+Each sector was designated a governor and a noble. The noble was given private
+quarters and told to be merry and helpful. The governor was given a hundred odd
 strangers, a fixed amount of property, and a mask to represent their title and
 told not to screw everything up. Naturally one job was seen as infinitely more
 preferable than the other.
@@ -71,6 +71,43 @@ The governor and noble replied in unison "Thank you."
 
 The robot in full sincerity responded "You're welcome! The sector will thrive
 if we all contribute!"
+
+---
+
+The primary mess hall was busy, as it usually was. The kitchen was on high
+alert, the line for meals was still taking about half an hour to get people in
+and out, and there were enough customers that the general air of conversation
+made a distinct buzz. A buzz that quickly lowered when the doors were violently
+opened by a man of the opinion that he was not getting his due respect. The
+noble sat down at a decently packed table and continuing grumping, as they had
+for several minutes by now.
+
+One of the other patrons shrugged. "Why are _you_ so grumpy today?"
+
+"The _governor_," the noble said with a gratuitous amout of contempt, "has
+devised a contraption to rid us of our _money_. I'm losing thousands of units
+as we speak!"
+
+"Whoa, that's a lot." "You had that much? ...oh, that's the guy calling himself
+a noble?" "Serves ya right."
+
+This was not the sympathy the noble wanted. (Though perhaps it was the sympathy
+he had earned.) "It's going to ruin us all! Our governor has no _respect_ for
+the people!"
+
+As the noble continued ranting, a small robot entered the space and rolled up
+to the table. "Excuse me, citizen, what is your ID number?"
+
+One of the patrons looked down at their uniform. "1381?"
+
+The robot paused for a few seconds. "1381, it would appear that you are owed
+371 units in taxes."
+
+The patron seemed pleasantly surprised. The noble less so. "_You..._"
+
+"Wait, are you upset because you got caught not paying taxes?"
+
+The noble did not spend much time at the table after that.
 
 ---
 
