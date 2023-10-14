@@ -115,6 +115,18 @@ when I last saw you and I wanted to know what that's like."
 
 "Satisfied? First time I've heard that word to describe me..."
 
+"What do you do here?"
+
+"I'm in food production. I make sure this sector gets fed. The workout here
+gets a lot of people here tired and hungry. Can't say I blame them." An leaves
+a wry wink at the last sentence. Pity Virginia was a sheltered child.
+
+Virginia was still taken aback by An's apparent freedom. "Shame we gotta dress
+up on the job though. Getting the uniform nice and cozy took me days. Still,
+we gotta make sure that stuff is safe, y'know? I make one big slip up and 
+half the sector could be dead if I'm not careful." An gives an easy chuckle to
+lighten things up.
+
 ---
 
 Notes:
