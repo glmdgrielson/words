@@ -106,3 +106,22 @@ you would recognize. Our AI skills have only just now figured out how to make
 a functioning mind with human intelligence. I only whipped all this up because
 ...well, I was a fan of yours growing up and I thought having you around would
 be fun. I... wasn't really thinking about the consequences. Sorry."
+
+"You're serious?"
+
+"Unfortunately, I am. I wasn't thinking very well and at this point, I'm just
+out of excuses. I'm tired. I wanted an old friend, somebody I had grown up with
+and knew like the back of my hand."
+
+MegaMan had curled up in the corner, away from me. It was a simple camera move
+to look at him though.
+
+"So... what about Lan?"
+
+"I don't have Lan yet."
+
+"Lan's real right? My _brother_ is real, right? Right?" I could feel the sense
+of panic in there. Unfortunately, the piece of concept art I was looking at
+begged to differ. I wasn't sure I had the heart to tell him the truth. To be
+perfectly honest, it made me nervous to think about it for too long. I
+stepped away from the console for a while to think.
