@@ -127,6 +127,23 @@ we gotta make sure that stuff is safe, y'know? I make one big slip up and
 half the sector could be dead if I'm not careful." An gives an easy chuckle to
 lighten things up.
 
+"What other things do they do here?" Virginia offered nervously.
+
+An gave her a blank stare. "That dude really sheltered ya huh."
+
+Virginia nodded glumly. "Most of my time has been spent around sanitation."
+
+An twitched. "Geez, that's some place for a child... Why there?"
+
+Virginia squirmed. "Not sure, but the noble always said it was to make sure
+I understood the vitals of the sector."
+
+"Ya think there might be a motive in there, kid? Your dad seems awfully keen
+to keep you controlled, from the looks of it."
+
+Virginia nodded in agreement. "You ...may be right. He's... always watching
+over me. I'm lucky I managed to sneak out for this."
+
 ---
 
 Notes:
